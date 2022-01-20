@@ -10,5 +10,5 @@ Here are the covid related real-time visualizations that are created in Observab
 <br>https://observablehq.com/@divyaselvaraj/covid-cases
 
 * **World Covid Cases Visualization by Continent:**
-<br>This dashboard shows the new cases, new deaths, total cases and total deaths by selected state in USA till date using line, multi-line and area charts.
+<br>This dashboard shows the new cases, new deaths, total cases and total deaths by selected state in USA till date using line and area charts. Cases/Deaths can be compared upto 3 states using multi-line plot.
 <br>https://observablehq.com/@divyaselvaraj/usa-covid
