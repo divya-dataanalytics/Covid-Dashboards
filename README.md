@@ -15,4 +15,4 @@
 <br>https://observablehq.com/@divyaselvaraj/usa-covid
 
 **Tableau Covid Dashboard**
-https://public.tableau.com/app/profile/divya.selvaraj/viz/CovidDashboard_16428169843570/Sheet1
+https://public.tableau.com/app/profile/divya.selvaraj/viz/CovidTracker_16429123750980/CovidTracker
