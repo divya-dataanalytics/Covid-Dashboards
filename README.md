@@ -10,7 +10,7 @@
 <br>This dashboard shows the total cases and total deaths by continent till date using bar charts and pie charts.
 <br>https://observablehq.com/@divyaselvaraj/covid-cases
 
-* **World Covid Cases Visualization by Continent:**
+* **USA Covid Cases Visualization by States:**
 <br>This dashboard shows the new cases, new deaths, total cases and total deaths by selected state in USA till date using line and area charts. Cases/Deaths can be compared upto 3 states using multi-line plot.
 <br>https://observablehq.com/@divyaselvaraj/usa-covid
 
